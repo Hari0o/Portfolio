@@ -1,0 +1,9 @@
+$mainColor: orange;
+
+$width: 808px;
+
+@mixin mobile {
+    @media (max-width: #{$width}) {
+        @content
+    }
+}

@@ -1,5 +1,5 @@
 //npm install sass
-
+@import './globel.scss';
 .App{
     height: 100vh;
 
@@ -15,6 +15,11 @@
         &::-webkit-scrollbar{
             display: none;
         }  //for chrome,safari,edge
+
+         @include mobile {
+             
+                margin-top: 70px; 
+             }
 
         > *{
             width: 100vw;

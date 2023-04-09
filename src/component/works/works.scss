@@ -6,6 +6,12 @@
   align-items: center;
   justify-content: center;
   position: relative;
+  @include mobile {
+      display: flex;
+      align-items: center;
+        justify-content: center;
+        position: relative;
+    }
 
   .arrow {
     height: 50px;
@@ -56,7 +62,7 @@
 
         @include mobile {
           width: 80%;
-          height: 150px;
+          height: 110px;
           margin: 15px 0;
         }
 

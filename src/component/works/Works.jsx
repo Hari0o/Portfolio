@@ -25,6 +25,14 @@ export default function Works() {
     {
       id: "3",
       icon: "./assets/writing.png",
+      title: "Keeper Note",
+      desc:
+        "It's a Keeper Note Web built with React by using useState",
+      img:
+        './assets/keeperapp.png'    },
+    {
+      id: "4",
+      icon: "./assets/writing.png",
       title: "TinDog",
       desc:
         "It's a basic website built with HTML & CSS.",

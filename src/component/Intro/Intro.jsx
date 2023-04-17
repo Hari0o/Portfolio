@@ -23,13 +23,13 @@ function Intro() {
                 <div className="details">
                     <h2>Hey There,I'm</h2>
                     <h1>Hari Mukkamula</h1>
-                    <h3>Web Devloper <span ref={textRef}></span> </h3>
+                    <h3>Web Developer <span ref={textRef}></span> </h3>
 
                     <div className="box">
                     <h3 className='p'>Profile</h3>
-                    <p >Proficient in an assortment of technologies like React and JavaScript.
-                        Able to effectively self-manage during independentprojects, as well as
-                            collaborate in a team setting.</p>
+                    <p>Proficient in an assortment of technologies like React and JavaScript.
+                        Able to effectively self-manage during independent projects, as well as
+                        collaborate in a team setting.</p>
                         </div>
                     
                 </div>

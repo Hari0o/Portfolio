@@ -13,7 +13,7 @@ export default function Testinomial() {
                         
                     </div>
                     <div className="center">
-                        A part from the Frontend Developer, I also make memes which gives creative ideas on styling a picture.
+                        Apart from the Frontend Developer, I also make memes which gives creative ideas on styling a picture.
 
                     </div>
                     <div className="bottom">
